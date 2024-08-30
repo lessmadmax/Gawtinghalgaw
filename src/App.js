@@ -5,7 +5,8 @@ import {
 } from "react-router-dom";
 import StartingPage from "./components/StartingPage.jsx";
 import LoginPage from "./components/LoginPage.jsx";
-import RegisterPage from "./components/RegisterPage.jsx";
+//import RegisterPage from "./components/RegisterPage.jsx";
+import RegisterPage from "./components/Register.jsx";
 import MatchingList from "./components/Matchings/MatchingList.jsx";
 import "./App.css";
 import PersonalDetail from "./components/Matchings/PersonalDetail.jsx";
